@@ -14,7 +14,7 @@ Epic-Cash is still young and developing project, there are often changes and new
 - Download file/script and run 
 - App will connect to epic-radar.com database to fetch official links, versions etc
 
-- If already using epic software before:
+- If already using epic software on this machine:
     - Provide paths to epic node and wallet config files
     - App will check your version against most up-to-date 
     - Recommended action will be suggested as well as additional software
