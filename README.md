@@ -12,7 +12,7 @@ Epic-Cash is still young and developing project, there are often changes and new
 ### How is it working
 
 - Download file/script and run 
-- App will connect to epic-radar.com database to fetch official links, versions etc
+- App will connect to epic-radar.com database to fetch official links, versions etc. Database will managed by trusted community memmbers, eventually automated/trustless.
 
 - If already using epic software on this machine:
     - Provide paths to epic node and wallet config files
